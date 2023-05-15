@@ -1,14 +1,11 @@
 import { useState } from 'react'
 import './App.css'
-import Card from './Components/card'
+import ContainerCards from './Components/ContainerCards'
 
 function App() {
   
   return (   
-    <section>
-      <Card />
-    </section>
-      
+      <ContainerCards />  
   )
 }
 

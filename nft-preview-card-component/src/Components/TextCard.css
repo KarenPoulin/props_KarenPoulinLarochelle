@@ -1,0 +1,38 @@
+.text {
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+    font-size: 1rem;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.title {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: white;
+}
+
+.price {
+    font-weight: 0.8rem;
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+    padding-left: 8px;
+}
+
+.days {
+    text-align: right;
+    font-weight: 0.8rem;
+    color: hsl(215, 51%, 70%);
+    padding-left: 8px;
+}
+
+.creator {
+    font-weight: 0.8rem;
+    color: hsl(215, 51%, 70%);
+}
+
+.span {
+    font-weight: 600;
+    color: white;
+}
